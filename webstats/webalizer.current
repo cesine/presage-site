@@ -1,0 +1,195 @@
+# Webalizer V2.01-10 Incremental Data - 08/12/2004 02:51:05
+2004 8 12 2 51 5
+95 75 6 13 10 7 482845 42 9 0
+1 5 22 2 12
+0 0 0 0 0 0
+19 17 150281 1 8 1
+29 25 142622 2 15 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+14 14 81399 2 3 3
+15 6 23704 1 6 1
+18 13 84839 1 10 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+13 11 72980 8
+27 22 124622 15
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+10 8 50140 5
+29 20 152561 10
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+4 4 23967 1
+3 1 5892 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+4 4 23967 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+5 5 28716 1
+0 0 0 0
+0
+0
+0
+75
+0
+0
+0
+0
+0
+0
+0
+7
+0
+0
+9
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 25 0 147300 9 2
+/faculty/images/waqas.png
+1 3 0 39988 0 0
+/presage.css
+0 11 0 46260 0 0
+/register.php
+0 1 0 6052 0 0
+/oalevels.php
+0 6 0 34020 0 0
+/logo.gif
+1 10 0 29432 0 0
+/faculty/images/atif.png
+1 3 0 42764 0 0
+/contact.php
+0 3 0 14247 0 0
+/faculty/
+0 5 0 1225 0 1
+/faculty/images/
+0 4 0 1560 0 0
+/faculty/images/faryal.png
+1 2 0 24618 0 0
+/faculty/images/amaar.png
+1 2 0 19393 0 0
+/map.png
+1 9 0 74048 0 0
+# End Of Table - urls
+# -sites- (monthly)
+202.45.144.19
+0 7 5 29859 1 1091541790
+/
+202.124.192.25
+0 15 6 23704 1 1092214647
+/faculty/images/
+80.247.154.94
+0 5 5 28716 1 1092176438
+/
+193.231.20.27
+0 19 17 150281 1 1091433637
+/
+202.84.223.165
+0 22 20 112763 1 1091499731
+/
+202.84.223.166
+0 27 22 137522 4 1092279065
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+202.84.223.166
+0 18 13 84839 2 1092279065
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://presage.edu.pk/register.php
+1 1
+http://presage.edu.pk/faculty/
+1 9
+http://presage.edu.pk/oalevels.php
+1 6
+- (Direct Request)
+0 8
+http://presage.edu.pk/
+1 21
+http://www.presage.edu.pk/oalevels.php
+1 2
+http://presage.edu.pk/faculty/images/
+1 10
+http://presage.edu.pk/contact.php
+1 1
+http://www.orkut.com/ProfileB.aspx
+0 1
+http://www.presage.edu.pk/
+1 36
+# End Of Table - referrers
+# -agents- 
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt)
+0 22
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt; FunWeb
+0 7
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)
+0 24
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 20
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; {2659C4D2-
+0 4
+Mozilla/4.0 (compatible; MSIE 5.01; Windows 98)
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1
+0 13
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
